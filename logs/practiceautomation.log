@@ -1,0 +1,50 @@
+2024-09-17 12:45:16:INFO:********************Test_01_Login_Admin*******************
+2024-09-17 12:45:16:INFO:******************** verification of admin login page title *******************
+2024-09-17 12:45:29:INFO:******************** test_title_verification matched *******************
+2024-09-17 12:45:41:INFO:******************** test_valid_login started *******************
+2024-09-29 18:11:56:INFO:********************Test_01_Login_Admin*******************
+2024-09-29 18:11:56:INFO:******************** verification of admin login page title *******************
+2024-09-29 18:12:01:INFO:******************** test_title_verification matched *******************
+2024-09-29 18:12:04:INFO:******************** test_valid_login started *******************
+2024-09-29 18:14:46:INFO:********************Test_01_Login_Admin*******************
+2024-09-29 18:14:46:INFO:******************** verification of admin login page title *******************
+2024-09-29 18:14:50:INFO:******************** test_title_verification matched *******************
+2024-09-29 18:15:13:INFO:******************** test_valid_login started *******************
+2024-09-30 14:03:15:INFO:********************Test_01_Login_Admin*******************
+*****
+2024-09-30 14:03:15:INFO:******************** verification of admin login page title *******************
+2024-09-30 14:03:30:INFO:******************** test_title_verification matched *******************
+2024-09-30 14:20:00:INFO:********************Test_01_Login_Admin*******************
+2024-09-30 14:20:00:INFO:******************** verification of admin login page title *******************
+2024-09-30 14:20:08:INFO:******************** test_title_verification matched *******************
+2024-09-30 14:20:11:INFO:******************** test_valid_login started *******************
+2024-09-30 14:57:42:INFO:********************Test_01_Login_Admin*******************
+2024-09-30 14:57:42:INFO:******************** verification of admin login page title *******************
+2024-09-30 14:57:51:INFO:******************** test_title_verification matched *******************
+2024-09-30 14:57:54:INFO:******************** test_valid_login started *******************
+2024-10-22 11:29:02:WARNING:There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2024-10-22 11:29:02:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-10-22 11:29:08:INFO:********************Test_02_Login_Admin_started*******************
+2024-10-22 11:29:25:INFO:test data is failed
+2024-10-22 11:40:58:INFO:********************Test_02_Login_Admin_started*******************
+2024-10-22 11:41:25:INFO:test data is failed
+2024-10-22 11:42:10:INFO:********************Test_02_Login_Admin_started*******************
+2024-10-22 11:42:31:INFO:test data is failed
+2024-10-22 11:53:25:INFO:********************Test_02_Login_Admin_started*******************
+2024-10-22 11:53:41:INFO:test data is failed
+2024-10-22 13:36:59:INFO:********************Test_01_Login_Admin*******************
+2024-10-22 13:36:59:INFO:******************** verification of admin login page title *******************
+2024-10-22 13:37:05:INFO:******************** test_title_verification matched *******************
+2024-10-22 13:37:08:INFO:******************** test_valid_login started *******************
+2024-10-22 13:38:17:INFO:********************Test_01_Login_Admin*******************
+2024-10-22 13:38:17:INFO:******************** verification of admin login page title *******************
+2024-10-22 13:38:25:INFO:******************** test_title_verification matched *******************
+2024-10-22 13:38:27:INFO:******************** test_valid_login started *******************
+2024-10-22 13:39:45:INFO:********************Test_02_Login_Admin_started*******************
+2024-10-22 13:39:59:INFO:test data is failed
+2024-11-12 13:24:39:INFO:********************Test_01_Login_Admin*******************
+2024-11-12 13:24:39:INFO:******************** verification of admin login page title *******************
+2024-11-12 13:24:59:INFO:******************** test_title_verification matched *******************
+2024-11-12 13:44:37:INFO:********************Test_01_Login_Admin*******************
+2024-11-12 13:44:37:INFO:******************** verification of admin login page title *******************
+2024-11-12 13:44:45:INFO:******************** test_title_verification matched *******************
